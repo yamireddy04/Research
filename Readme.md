@@ -35,9 +35,11 @@ This repository contains my research work, including preprints and supporting ma
 * TechRxiv: https://www.techrxiv.org/users/1032506/articles/1392660-beyond-surface-affect-why-sentiment-detection-alone-is-insufficient-for-intent-interpretation-in-human-ai-communication?commit=2b8a4238952ef4fb099d4a804df9d99aab24c199
 * Google Scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zYTRPeIAAAAJ&authuser=1&citation_for_view=zYTRPeIAAAAJ:DkZNVXde3BIC
 * ORCID: https://orcid.org/0009-0004-9662-0219
+  
 ---
 
 ### 3. Comparative Sentiment Analysis of YouTube Transcripts and User Comments: Failure Modes and Interpretability in Public Discourse
+
 **Status:** Preprint
 **Repository:** SSRN
 **DOI:** 10.2139/ssrn.6344859
@@ -50,5 +52,5 @@ This repository contains my research work, including preprints and supporting ma
 * SSRN: https://ssrn.com/abstract=6344859
 * DOI: http://dx.doi.org/10.2139/ssrn.6344859
 * GitHub: https://github.com/yamireddy04/youtube-sentiment-analysis-ai
-* Google Scholar: https://scholar.google.com/citations view_op=view_citation&hl=en&user=zYTRPeIAAAAJ&authuser=1&citation_for_view=zYTRPeIAAAAJ:rTD5ala9j4wC
+* Google Scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zYTRPeIAAAAJ&authuser=1&citation_for_view=zYTRPeIAAAAJ:rTD5ala9j4wC
 * ORCID: https://orcid.org/0009-0004-9662-0219
