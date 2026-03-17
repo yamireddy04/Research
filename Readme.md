@@ -17,7 +17,7 @@ This repository contains my research work, including preprints and supporting ma
 
 * TechRxiv: https://www.techrxiv.org/users/1032506/articles/1392661-a-system-level-framework-for-sentiment-aware-reflective-writing-systems-modeling-temporal-emotional-patterns-with-interpretability-and-ethical-safety
 * Google Scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zYTRPeIAAAAJ&authuser=1&citation_for_view=zYTRPeIAAAAJ:eO3_k5sD8BwC
-* ORCID: https://orcid.org/my-orcid?orcid=0009-0004-9662-0219
+* ORCID: https://orcid.org/0009-0004-9662-0219
 
 ---
 
@@ -34,4 +34,21 @@ This repository contains my research work, including preprints and supporting ma
 
 * TechRxiv: https://www.techrxiv.org/users/1032506/articles/1392660-beyond-surface-affect-why-sentiment-detection-alone-is-insufficient-for-intent-interpretation-in-human-ai-communication?commit=2b8a4238952ef4fb099d4a804df9d99aab24c199
 * Google Scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zYTRPeIAAAAJ&authuser=1&citation_for_view=zYTRPeIAAAAJ:DkZNVXde3BIC
-* ORCID: https://orcid.org/my-orcid?orcid=0009-0004-9662-0219
+* ORCID: https://orcid.org/0009-0004-9662-0219
+---
+
+### 3. Comparative Sentiment Analysis of YouTube Transcripts and User Comments: Failure Modes and Interpretability in Public Discourse
+**Status:** Preprint
+**Repository:** SSRN
+**DOI:** 10.2139/ssrn.6344859
+
+**Abstract:**
+: Sentiment analysis of user-generated content on video-sharing platforms presents a unique methodological challenge: the sentiment expressed in a video's spoken content (transcript) does not necessarily align with the sentiment expressed by its audience in the comments section. This paper presents a dual-model sentiment analysis system combining LSTM neural networks for comment classification with VADER lexicon-based analysis for transcript sentiment. Through deployment of a full-stack web application (Python/Flask backend, MySQL storage, interactive visualization), we demonstrate the feasibility of comparative transcript-comment sentiment analysis. A pilot study analyzing 12 YouTube videos across five content domains reveals divergence patterns: product reviews show transcripts more positive than comments (reflecting promotional content versus user experience), political commentary shows the opposite (audience supporting critical creator stance), while educational content shows minimal divergence. We document domain-specific failure modes including ASR transcription noise affecting VADER analysis and sarcasm degrading LSTM accuracy. The system architecture, dual-model rationale, and pilot findings provide a foundation for larger-scale analysis of creator-audience sentiment relationships. 
+
+**Links**
+
+* SSRN: https://ssrn.com/abstract=6344859
+* DOI: http://dx.doi.org/10.2139/ssrn.6344859
+* GitHub: https://github.com/yamireddy04/youtube-sentiment-analysis-ai
+* Google Scholar: https://scholar.google.com/citations view_op=view_citation&hl=en&user=zYTRPeIAAAAJ&authuser=1&citation_for_view=zYTRPeIAAAAJ:rTD5ala9j4wC
+* ORCID: https://orcid.org/0009-0004-9662-0219
